@@ -6,11 +6,15 @@
 
 [Rest API](https://egghead.io/courses/building-an-express-api-with-express-5-and-node-14-7b96)
 
+[HTML and CSS](https://platzi.com/cursos/html-css/)
+
 [Front-end](https://www.notion.so/Front-end-6259dfad521b4c5f9e0f2f7b8beaeab7)
 
 [Back-end](https://www.notion.so/Back-end-cdfd0c6c327c4301b2a86e920a8c35e2)
 
 [HTML Statements](https://www.notion.so/HTML-a043814651a5486fa90fadcf13805810)
+
+[Flexbox](https://developer.mozilla.org/es/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
 
 [STORYBOOK](https://storybook.js.org/tutorials/intro-to-storybook/react/en/get-started/)
 
