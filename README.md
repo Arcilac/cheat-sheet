@@ -16,6 +16,8 @@
 
 [CSS Statements](https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax)
 
+[Responsive desing](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
+
 [Flexbox](https://developer.mozilla.org/es/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
 
 [STORYBOOK](https://storybook.js.org/tutorials/intro-to-storybook/react/en/get-started/)
