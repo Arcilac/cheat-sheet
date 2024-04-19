@@ -12,7 +12,9 @@
 
 [Back-end](https://www.notion.so/Back-end-cdfd0c6c327c4301b2a86e920a8c35e2)
 
-[HTML Statements](https://www.notion.so/HTML-a043814651a5486fa90fadcf13805810)
+[HTML Statements](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[CSS Statements](https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax)
 
 [Flexbox](https://developer.mozilla.org/es/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
 
